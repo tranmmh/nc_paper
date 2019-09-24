@@ -1,4 +1,4 @@
-# Analysis code for Tran et al (in press) 'Rate and temporal code multiplexing in neocortical microcircuits'
+# Analysis code for Tran et al (in press) 'Neocortical inhibitory interneuron subtypes display distinct responses to synchrony and rate of inputs'
 
 This repository contains the analysis code for data published in Tran et al (2019). This code has been written in python 2.7, and has the following requirements:
 
